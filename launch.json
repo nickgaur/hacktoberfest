@@ -1,0 +1,301 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch jhsdfish",
+            "request": "launch",
+            "mainClass": "jhsdfish",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadOperations",
+            "request": "launch",
+            "mainClass": "exception_handling.ReadOperations",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch VivekHeliwalAssignmentJune9",
+            "request": "launch",
+            "mainClass": "Assignments.VivekHeliwalAssignmentJune9",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractClass",
+            "request": "launch",
+            "mainClass": "Java_basics.AbstractClass",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignment",
+            "request": "launch",
+            "mainClass": "Java_basics.Assignment",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch DefaultKeywordUse",
+            "request": "launch",
+            "mainClass": "Java_basics.DefaultKeywordUse",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch Employeeslip",
+            "request": "launch",
+            "mainClass": "Java_basics.Employeeslip",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch FullMemory",
+            "request": "launch",
+            "mainClass": "Java_basics.FullMemory",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch GCDemo",
+            "request": "launch",
+            "mainClass": "Java_basics.GCDemo",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch Helloworld",
+            "request": "launch",
+            "mainClass": "Java_basics.Helloworld",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch ISA_DEMO",
+            "request": "launch",
+            "mainClass": "Java_basics.ISA_DEMO",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceUseWays",
+            "request": "launch",
+            "mainClass": "Java_basics.InterfaceUseWays",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultipleInheritance",
+            "request": "launch",
+            "mainClass": "Java_basics.MultipleInheritance",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverridVariablesVsMethods",
+            "request": "launch",
+            "mainClass": "Java_basics.OverridVariablesVsMethods",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticKeywordDemo",
+            "request": "launch",
+            "mainClass": "Java_basics.StaticKeywordDemo",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticKeywordUses",
+            "request": "launch",
+            "mainClass": "Java_basics.StaticKeywordUses",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringDemo",
+            "request": "launch",
+            "mainClass": "Java_basics.StringDemo",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strings_intro",
+            "request": "launch",
+            "mainClass": "Java_basics.Strings_intro",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentDemo",
+            "request": "launch",
+            "mainClass": "Java_basics.StudentDemo",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch TypePromotion",
+            "request": "launch",
+            "mainClass": "Java_basics.TypePromotion",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibbonacci",
+            "request": "launch",
+            "mainClass": "Java_basics.fibbonacci",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch helloworlddemo",
+            "request": "launch",
+            "mainClass": "Java_basics.helloworlddemo",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch javadatatypes",
+            "request": "launch",
+            "mainClass": "Java_basics.javadatatypes",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch loopsdemo",
+            "request": "launch",
+            "mainClass": "Java_basics.loopsdemo",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiLevelHierarchy",
+            "request": "launch",
+            "mainClass": "Java_basics.multiLevelHierarchy",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch name",
+            "request": "launch",
+            "mainClass": "Java_basics.name",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch patterns",
+            "request": "launch",
+            "mainClass": "Java_basics.patterns",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeNumber",
+            "request": "launch",
+            "mainClass": "Java_basics.primeNumber",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch salary_slip",
+            "request": "launch",
+            "mainClass": "Java_basics.salary_slip",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch taking_input",
+            "request": "launch",
+            "mainClass": "Java_basics.taking_input",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "Java_basics.test",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch test01",
+            "request": "launch",
+            "mainClass": "Java_basics.test01",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ques2",
+            "request": "launch",
+            "mainClass": "Ques2",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ques3",
+            "request": "launch",
+            "mainClass": "Ques3",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalcDemo",
+            "request": "launch",
+            "mainClass": "exception_handling.CalcDemo",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch Excepetion_Demo",
+            "request": "launch",
+            "mainClass": "exception_handling.Excepetion_Demo",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionHandling",
+            "request": "launch",
+            "mainClass": "exception_handling.ExceptionHandling",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exceptiondemo",
+            "request": "launch",
+            "mainClass": "exception_handling.Exceptiondemo",
+            "projectName": "vscodewithJAVA_1bf72566"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserDefinedException",
+            "request": "launch",
+            "mainClass": "exception_handling.UserDefinedException",
+            "projectName": "vscodewithJAVA_1bf72566"
+        }
+    ]
+}
